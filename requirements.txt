@@ -1,0 +1,13 @@
+# Advanced Packet Analyzer - Python Dependencies
+
+# Core packet capture and analysis
+scapy>=2.5.0
+
+# Terminal UI and visualization
+rich>=13.0.0
+
+# Data processing
+pandas>=2.0.0
+
+# Optional: Performance enhancements
+psutil>=5.9.0
